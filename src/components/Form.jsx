@@ -52,6 +52,7 @@ function Form({ onAddExpense }) {
         required
       />
       <button type="submit">Add ✚</button>
+      
     </form>
   )
 }
